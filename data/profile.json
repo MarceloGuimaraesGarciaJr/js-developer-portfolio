@@ -16,7 +16,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "MariaDB",
+        "name": "MySql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
@@ -30,6 +30,10 @@
       {
         "name": "Github",
         "logo": "https://raw.githubusercontent.com/MarceloGuimaraesGarciaJr/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/MarceloGuimaraesGarciaJr/js-developer-portfolio/main/data/imgs/docker.svg"
       }
       
     ],
