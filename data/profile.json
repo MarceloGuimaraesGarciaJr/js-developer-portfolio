@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/MarceloGuimaraesGarciaJr/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/MarceloGuimaraesGarciaJr/js-developer-portfolio/main/data/imgs/javascript.svg"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/MarceloGuimaraesGarciaJr/js-developer-portfolio/main/data/imgs/mysql"
       },
       {
         "name": "n8n",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://commons.wikimedia.org/wiki/File:N8n-logo-new.svg"
       },
       {
         "name": "Git",
